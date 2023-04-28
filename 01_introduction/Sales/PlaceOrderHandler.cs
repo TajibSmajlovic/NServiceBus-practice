@@ -1,6 +1,7 @@
 ﻿using Messages;
 using NServiceBus;
 using NServiceBus.Logging;
+using System;
 using System.Threading.Tasks;
 
 namespace Sales
